@@ -8,4 +8,5 @@ This page tells you a little bit about me.
 
 来了
 
+这是一个链接 [about](./about.md)
 
