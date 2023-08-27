@@ -7,13 +7,4 @@ author: zwj
 language: en
 timezone: ''
 
-theme: jekyll-theme-minimal
-
-nav:
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-
-
 
