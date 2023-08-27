@@ -1,5 +1,5 @@
+<center>  About page </center>
 
-# About page
 
 This page tells you a little bit about me.
 大家好
