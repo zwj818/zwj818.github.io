@@ -7,7 +7,7 @@ author: zwj
 language: en
 timezone: ''
 
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 
 nav:
 - name: Home
