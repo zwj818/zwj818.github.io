@@ -1,17 +1,20 @@
-<center>  About page </center>
+# <center>  About  </center>
 
+## 简介
 
-This page tells you a little bit about me.
-大家好
-
-我是blog
-
-来了
+个人一些兴趣安好的东西，
 
 这是一个链接 [about](./about.md)
 
 
 
-# 渐冻症专栏
+## 渐冻症信息汇聚
+从网上找的一些信息
 [01-ALS病人家庭护理手册](./渐冻症/01-ALS病人家庭护理手册.md)
+
+
+## 川崎病
+
+
+
 
