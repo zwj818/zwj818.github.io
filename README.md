@@ -13,5 +13,5 @@ This page tells you a little bit about me.
 
 
 # 渐冻症专栏
-[01-ALS病人家庭护理手册](./渐冻症/渐冻症\01-ALS病人家庭护理手册.md)
+[01-ALS病人家庭护理手册](./渐冻症/01-ALS病人家庭护理手册.md)
 
