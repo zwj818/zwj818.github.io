@@ -7,4 +7,6 @@ author: zwj
 language: en
 timezone: ''
 
+# Build settings
+theme: minima
 
